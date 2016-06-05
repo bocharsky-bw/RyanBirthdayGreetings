@@ -2,9 +2,10 @@
 
 ## Quick start
 
-```bash
-$ composer install && bin/console.php
-```
+1. `git clone` this repo
+2. `cd` to it
+3. `composer install` vendors
+4. have fun with `bin/console.php`
 
 ## Authors
 
