@@ -13,5 +13,5 @@
 - [Victor][Victor]
 - Some Dino from KnpU
 
-[Ponka]: https://www.instagram.com/p/6p8Co6MgXe/
+[Ponka]: https://www.instagram.com/p/BGRdfBdsgep/
 [Victor]: https://github.com/bocharsky-bw
